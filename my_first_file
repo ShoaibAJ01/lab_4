@@ -1,2 +1,4 @@
 cout<<"Add Two Number"<<a+b<<endl;
 cout<<" Subtract Two Numbe"<<a-b<<endl;
+
+cout<<" Product two number"<<a*b<<endl;
